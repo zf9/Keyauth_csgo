@@ -2,6 +2,7 @@
 Build as X86 Release    
 x86 Libs : https://x86libs.netlify.app/libs.zip   
 Discord : ZF9#1214   
+Pretty shit paste i made while bored   
 
 Title : Line 5 main.cpp   
 Key/User&Pass : Line 6 main.cpp   
