@@ -11,5 +11,5 @@ Change DLL path : Line 6 Injector.h & Line 21 MainMenu.h
 Change Download URL : Line 29 MainMenu.h   
 
 
-26/04/2023 - updates because so many pasters keep dming me asking for an update   
+26/04/2023 - Updated because so many pasters keep dming me asking for an update   
 Counter-Strike: Global Offensive > Counter-Strike: Global Offensive - Direct3D 9
