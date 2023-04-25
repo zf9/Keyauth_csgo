@@ -11,7 +11,7 @@ void MenuHeader()
 	system(XorStr("color 5").c_str());
 	std::cout << XorStr("\n");
 	std::cout << XorStr("   Waiting For CS:GO...\n");
-    LPCTSTR WindowName = "Counter-Strike: Global Offensive";
+    LPCTSTR WindowName = "Counter-Strike: Global Offensive - Direct3D 9";
     HWND Find = FindWindow(NULL, WindowName);
 
     for (int i = 0; i < 1; i) {
